@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
+![MasterHead](https://github.com/AdeenaRamzan/AdeenaRamzan/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Adeena Ramzan</h1>
 <h3 align="center">Exploring the Intersection of Technology and Artificial Intelligence</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
