@@ -1,7 +1,9 @@
 ![MasterHead](https://github.com/AdeenaRamzan/AdeenaRamzan/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Adeena Ramzan</h1>
 <h3 align="center">Exploring the Power of Machine Learning to Create Smarter, Impactful Technologies</h3>
-<img align="center" margin-left="30%" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<div style="display: flex; justify-content: center;">
+  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="Coding" width="400">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeenaramzan&label=Profile%20views&color=0e75b6&style=flat" alt="adeenaramzan" /> </p>
 
