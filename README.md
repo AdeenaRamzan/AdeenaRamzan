@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Adeena%20Ramzan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26amp%3B%20ML%20Engineer%20%7C%20Generative%20AI%20%26amp%3B%20RAG%20Systems&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Adeena%20Ramzan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20ML%20Engineer%20%7C%20Generative%20AI%20and%20RAG%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+production+AI+systems+end-to-end;LangChain+%C2%B7+RAG+%C2%B7+LLM+Fine-tuning;Open+to+Freelance+%26+Full-time+Roles" alt="Typing SVG" />
@@ -89,27 +89,18 @@
 
 ### 📊 GitHub Activity & Insights
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeenaramzan&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</div>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeenaramzan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adeenaramzan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adeenaramzan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="380" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=adeenaramzan&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="380" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeenaramzan&theme=tokyonight&hide_border=true" alt="Streak Stats" width="760" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=adeenaramzan&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
 ---
 
