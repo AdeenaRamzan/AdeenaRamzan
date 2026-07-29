@@ -1,4 +1,4 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Adeena%20Ramzan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%26%20RAG%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Adeena%20Ramzan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Generative%20AI%20%26%20RAG%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+production+AI+systems+end-to-end;LangChain+%C2%B7+RAG+%C2%B7+LLM+Fine-tuning;Open+to+Freelance+%26+Full-time+Roles" alt="Typing SVG" />
