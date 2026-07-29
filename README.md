@@ -1,14 +1,13 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Adeena%20Ramzan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Generative%20AI%20%26%20RAG%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Adeena%20Ramzan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%26%20RAG%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+production+AI+systems+end-to-end;LangChain+%C2%B7+RAG+%C2%B7+LLM+Fine-tuning;Currently%3A+ML+Engineer+%40+Syslab" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+production+AI+systems+end-to-end;LangChain+%C2%B7+RAG+%C2%B7+LLM+Fine-tuning;Open+to+Freelance+%26+Full-time+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
 I build and deploy production AI systems — from LLM-powered RAG pipelines and 
-fine-tuned transformers to full-stack ML applications. Currently building ML/LLM 
-systems at Syslab, and completing my BSc in Computer Science at the University 
-of Karachi (UBIT).
+fine-tuned transformers to full-stack ML applications. Completing my BSc in 
+Computer Science at the University of Karachi (UBIT).
 </p>
 
 <p align="center">
@@ -72,15 +71,19 @@ LAN-based enterprise tool — video walkthrough in repo.
 ---
 
 ### 🧠 Currently
-- 🔭 Working on ML/LLM systems at **Syslab**
 - 🌱 Deepening focus on **RAG architectures, LLM fine-tuning (LoRA/QLoRA), and multi-agent systems**
 - 🎓 BSc Computer Science, University of Karachi (UBIT)
+- 💼 Open to freelance and full-time AI/ML opportunities
 - 📫 Reach me at **aradeenaramzan@gmail.com**
 - 🔗 [Portfolio](https://adeena-ramzan-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/adeena-ramzan65/)
 
 ---
 
 ### 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,react,nextjs,postgresql,git,js&theme=dark" alt="Skills"/>
+</p>
 
 **Generative AI & LLMs**  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -107,6 +110,10 @@ LAN-based enterprise tool — video walkthrough in repo.
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adeenaramzan&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+</p>
 
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeenaramzan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adeenaramzan" />
