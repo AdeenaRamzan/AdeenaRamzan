@@ -1,7 +1,8 @@
-<img align="center" src="https://github.com/AdeenaRamzan/AdeenaRamzan/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="Adeena Ramzan Banner" width="100%"/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Adeena%20Ramzan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Generative%20AI%20%26%20RAG%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Adeena Ramzan</h1>
-<h3 align="center">AI/ML Engineer @ Syslab | Generative AI & RAG Systems | LLM Fine-tuning</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+production+AI+systems+end-to-end;LangChain+%C2%B7+RAG+%C2%B7+LLM+Fine-tuning;Currently%3A+ML+Engineer+%40+Syslab" alt="Typing SVG" />
+</p>
 
 <p align="center">
 I build and deploy production AI systems — from LLM-powered RAG pipelines and 
@@ -10,8 +11,9 @@ systems at Syslab, and completing my BSc in Computer Science at the University
 of Karachi (UBIT).
 </p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=adeenaramzan&label=Profile%20views&color=0e75b6&style=flat" alt="adeenaramzan" />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=adeenaramzan&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="adeenaramzan" />
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20%2F%20Full--time-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="status"/>
 </p>
 
 ---
@@ -20,31 +22,50 @@ of Karachi (UBIT).
 
 **🛡️ [SecureScope AI](https://github.com/AdeenaRamzan/securescope-ai)** — [Live Demo](https://securescope-ai.vercel.app/)  
 3-phase cascade Python vulnerability scanner — ANN+XGBoost+LightGBM → BiLSTM → 
-CodeBERT (LoRA fine-tuned). **F1 0.954, ROC-AUC 0.989** on 3,563 real-world 
-GitHub functions. Hybrid CodeBERT + FAISS RAG pipeline with Groq Llama 3.1 for 
-automated fix suggestions.
+CodeBERT (LoRA fine-tuned). Hybrid CodeBERT + FAISS RAG pipeline with Groq 
+Llama 3.1 for automated fix suggestions.
+<br/>
+<img src="https://img.shields.io/badge/F1-0.954-38BDF8?style=flat-square" alt="F1"/>
+<img src="https://img.shields.io/badge/ROC--AUC-0.989-38BDF8?style=flat-square" alt="ROC-AUC"/>
+<img src="https://img.shields.io/badge/Test%20Set-3563%20functions-38BDF8?style=flat-square" alt="Test Set"/>
 
 **📄 [Document Intelligence RAG Chatbot](https://github.com/AdeenaRamzan/RAG-Chatbot)** — [Live Demo](https://rag-chatbot-nine-taupe.vercel.app/)  
 Document Q&A system with source-cited answers, built with LangChain, ChromaDB, 
 and Groq — eliminates hallucination via grounded retrieval.
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/ChromaDB-38BDF8?style=flat-square" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq"/>
 
 **🏥 [Care4Diabetics Extension (FYP)](https://github.com/ZobiaShakil/Care4Diabetics)**  
 Diabetic complication prediction system built with DOW University Hospital, 
-Karachi. LightGBM + Random Forest on a real 1,500-patient clinical dataset — 
-**ROC-AUC 0.93+**, validated via 50-fold cross-validation.
+Karachi. LightGBM + Random Forest on a real 1,500-patient clinical dataset.
+<br/>
+<img src="https://img.shields.io/badge/ROC--AUC-0.93%2B-38BDF8?style=flat-square" alt="ROC-AUC"/>
+<img src="https://img.shields.io/badge/Patients-1%2C500%20real-38BDF8?style=flat-square" alt="Patients"/>
+<img src="https://img.shields.io/badge/Validation-50--fold%20CV-38BDF8?style=flat-square" alt="CV"/>
 
 **🤖 [Multi-Agent Research System](https://github.com/AdeenaRamzan/Multi-agent-research-system)** — [Live Demo](https://multi-agent-research-system-khaki.vercel.app/)  
 Autonomous multi-agent research orchestration with a modular multi-LLM resolver 
 (Groq, Gemini, OpenAI, Ollama), real-time SSE streaming, React 19 frontend.
+<br/>
+<img src="https://img.shields.io/badge/Multi--LLM-Groq%20%C2%B7%20Gemini%20%C2%B7%20OpenAI-38BDF8?style=flat-square" alt="Multi-LLM"/>
+<img src="https://img.shields.io/badge/Streaming-SSE-38BDF8?style=flat-square" alt="SSE"/>
 
 **🎙️ [VoiceSphere AI](https://github.com/AdeenaRamzan/voicesphere-ai)** — [Live Demo](https://voicesphere-ai.vercel.app/)  
 Real-time voice AI assistant — speech-to-text, LLM reasoning, and natural 
 text-to-speech in a full conversational loop.
+<br/>
+<img src="https://img.shields.io/badge/Speech--to--Text-Whisper-38BDF8?style=flat-square" alt="STT"/>
+<img src="https://img.shields.io/badge/Real--Time-Voice-38BDF8?style=flat-square" alt="Real-Time"/>
 
 **🖥️ [Enterprise Endpoint Monitoring System](https://github.com/AdeenaRamzan/Enterprise-Endpoint-Monitoring-System)**  
 Real-time IT endpoint monitoring and remote administration platform — 20+ FPS 
 remote screen streaming, DLP logging, standalone Windows client agent. 
 LAN-based enterprise tool — video walkthrough in repo.
+<br/>
+<img src="https://img.shields.io/badge/Remote%20Control-20%2B%20FPS-38BDF8?style=flat-square" alt="FPS"/>
+<img src="https://img.shields.io/badge/WebSockets-Real--Time-38BDF8?style=flat-square" alt="WebSockets"/>
 
 📌 *More projects — computer vision, NLP, and business ML — pinned below and on my [portfolio](https://adeena-ramzan-portfolio.vercel.app/).*
 
