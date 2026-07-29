@@ -128,3 +128,5 @@ LAN-based enterprise tool — video walkthrough in repo.
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeenaramzan" height="30" width="40" />
 </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
