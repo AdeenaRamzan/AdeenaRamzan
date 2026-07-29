@@ -1,8 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Adeena%20Ramzan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20ML%20Engineer%20%7C%20Generative%20AI%20and%20RAG%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
+  <!-- TOP HEADER BANNER WITH NAME -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,45:203A43,100:00F2FE&height=240&section=header&text=Adeena%20Ramzan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20and%20ML%20Engineer%20%7C%20Generative%20AI%20and%20RAG%20Systems&descAlignY=58&descSize=19" width="100%"/>
+
+  <!-- TYPING SVG (SKILLS COMING AND GOING) -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+production+AI+systems+end-to-end;LangChain+%C2%B7+RAG+%C2%B7+LLM+Fine-tuning;Open+to+Freelance+%26+Full-time+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+production+AI+systems+end-to-end;LangChain+%C2%B7+RAG+%C2%B7+LLM+Fine-tuning;PyTorch+%C2%B7+FastAPI+%C2%B7+Multi-Agent+Systems;Open+to+Freelance+%26+Full-time+Roles" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -10,6 +13,7 @@
     🎓 Completing my <b>BSc in Computer Science</b> at the <i>University of Karachi (UBIT)</i>.
   </p>
 
+  <!-- QUICK LINKS & BADGES -->
   <p align="center">
     <a href="https://adeena-ramzan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-adeena--ramzan-38BDF8?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/adeena-ramzan65/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -78,7 +82,7 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,postgres,react,nextjs,js,git&theme=dark" alt="Skill Icons Grid"/><br/><br/>
 </div>
 
-| Category | Tools & Technologies |
+| Category | Skills & Frameworks |
 | :--- | :--- |
 | **Generative AI & LLMs** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
 | **ML & Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
@@ -98,10 +102,6 @@
   <img src="https://github-stats-extended.vercel.app/api?username=adeenaramzan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adeenaramzan&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
 ---
 
 <div align="center">
@@ -112,5 +112,5 @@
     <a href="mailto:aradeenaramzan@gmail.com"><img src="https://img.shields.io/badge/Email-aradeenaramzan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 </div>
