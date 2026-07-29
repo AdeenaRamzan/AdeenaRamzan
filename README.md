@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- CUSTOM HERO BANNER -->
-  <img src="./assets/banner.png" width="100%" alt="Adeena Ramzan — AI & Machine Learning Engineer"/>
+  <img src="./banner.png" width="100%" alt="Adeena Ramzan — AI & Machine Learning Engineer"/>
 
   <br/><br/>
 
